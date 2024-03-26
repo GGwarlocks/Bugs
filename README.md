@@ -1,4 +1,4 @@
-# Bugs
+# Bugs Reports
 ##Login not working
 
 **Priority & Severity:**
